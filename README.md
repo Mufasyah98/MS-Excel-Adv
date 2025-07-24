@@ -14,15 +14,11 @@ This repository contains Excel files, templates, and case studies for performing
 - Data Cleaning and Preparation using Power Query  
 - Dashboard Design for Business Reporting  
 ```
-
----
-
 ## 🛠️ Tools Used
 
 - Microsoft Excel 365 (PivotTable, Power Query, Power Pivot)
 - Excel built-in Data Analysis Toolpak
 - Solver Add-in
-
 ---
 
 ## 🧠 Target Audience
@@ -32,7 +28,6 @@ This repository contains Excel files, templates, and case studies for performing
 - Students of Business Analytics  
 - Trainers and Consultants  
 ---
-
 ## ✅ Example Use Cases
 
 - Analyzing monthly sales performance  
