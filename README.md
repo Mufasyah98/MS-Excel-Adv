@@ -13,12 +13,15 @@ This repository contains Excel files, templates, and case studies for performing
 - Prescriptive Analytics using Solver & Scenario Manager  
 - Data Cleaning and Preparation using Power Query  
 - Dashboard Design for Business Reporting  
+
 ```
+
 ## 🛠️ Tools Used
 
 - Microsoft Excel 365 (PivotTable, Power Query, Power Pivot)
 - Excel built-in Data Analysis Toolpak
 - Solver Add-in
+
 ---
 
 ## 🧠 Target Audience
@@ -26,8 +29,10 @@ This repository contains Excel files, templates, and case studies for performing
 - Data Analysts  
 - Business Executives  
 - Students of Business Analytics  
-- Trainers and Consultants  
+- Trainers and Consultants
+
 ---
+
 ## ✅ Example Use Cases
 
 - Analyzing monthly sales performance  
